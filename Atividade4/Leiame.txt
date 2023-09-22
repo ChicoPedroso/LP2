@@ -1,0 +1,1 @@
+Este programa analisa se os valores informados podem formar um triângulo, e retorna o tipo de triângulo formado caso seja possível.
