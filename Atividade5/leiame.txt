@@ -1,4 +1,0 @@
-Este programa calcula o salário líquido de um funcionário, levando em consideração os descontos e acréscimos referente à faixa salarial.
-
-Atenção!
-Os valores são fictícios, e não servem para o cálculo de folha de pagamentos em situações reais.
